@@ -5,7 +5,7 @@
 ## I'm a Husband, Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to new opportunities and collaborations
+- 👯 I’m looking for new opportunities and collaborations
 - 🥅 2020 Goals: Dive into JS Libraries and Frameworks: React, Vue, Angular
 - ⚡ Fun fact: I love to read and doing sports
 
