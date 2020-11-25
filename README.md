@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rootfellen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRootfellen&screen_name=Rootfellen)
 
-## I'm a Husband, Developer, and Teacher!!
+## I'm a Husband and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for new opportunities and collaborations
