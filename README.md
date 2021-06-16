@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for new opportunities and collaborations
 - 🥅 2021 Goals: Dive into JS Libraries and Frameworks: React
-- ⚡ Fun fact: I love to read and doing sports
+
 
 
 ### Connect with me:
